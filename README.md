@@ -1,5 +1,5 @@
 # Nessus Parser
-Forked Nessus Parser from http://www.melcara.com/archives/253 to add new Plugin Families
+Nessus Parser from http://www.melcara.com/archives/253 to add new Plugin Families
 
 This is a program to parse a series of Nessus XMLv2 files into a XLSX file.  The data from the XML file is placed into a series of tabs to for easier review and reporting.  New features with this edition are better reporting of policy plugin families, user account reporting, summary graphs, and a home page with summary data.
 
